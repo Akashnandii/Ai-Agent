@@ -42,7 +42,7 @@ This project demonstrates an AI-powered chat agent built using the **n8n workflo
 
 ## 📸 Workflow Overview
 
-![Workflow Screenshot](./Ai Agent.png)
+![Workflow Screenshot]([./Ai Agent.png](https://github.com/Akashnandii/Ai-Agent/blob/main/Ai%20Agent.png))
 
 > A visual representation of the workflow where "When chat message received" triggers the AI agent and distributes the message to tools like Groq Chat, SerpAPI, and Calculator.
 
